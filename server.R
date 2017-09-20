@@ -11,11 +11,10 @@ library(scales)
 library(RColorBrewer)
 library(plotly)
 library(mvtnorm)
+library(shinyjs)
 
 term.matrix <- function()
 {
-
-
     text <- readLines("data/local.txt", encoding="UTF-8")
 
     myCorpus = Corpus(VectorSource(text))
