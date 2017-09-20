@@ -2,7 +2,7 @@
 
 [![Project Status](http://www.repostatus.org/badges/latest/wip.svg)](http://www.repostatus.org/#wip)
 
- A collection of some plots served on a shiny instance.
+A collection of some plots served on a shiny instance.
 
 ## Introduction
 

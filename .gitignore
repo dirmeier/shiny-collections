@@ -31,3 +31,4 @@ dist
 *.iws
 out/
 .Rproj.user
+packrat/lib*/

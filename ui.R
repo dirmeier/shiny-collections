@@ -1,6 +1,6 @@
 library(shiny)
-library(plotly)
 library(shinyjs)
+library(plotly)
 
 shinyUI(
     fluidPage(
