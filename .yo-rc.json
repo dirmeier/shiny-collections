@@ -1,0 +1,9 @@
+{
+  "generator-r-bones": {
+    "user": "Simon Dirmeier",
+    "email": "simon.dirmeier@gmx.de",
+    "projectID": "collections",
+    "desc": "Testing a shiny app with some collections of nice figures.",
+    "githubuser": "dirmeier"
+  }
+}
