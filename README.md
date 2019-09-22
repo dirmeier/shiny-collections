@@ -1,5 +1,7 @@
 # shiny-collections
 
+[![Project Status](http://www.repostatus.org/badges/latest/concept.svg)](http://www.repostatus.org/#concept)
+
 A collection of some plots to check out shiny.
 
 ## Introduction
