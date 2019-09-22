@@ -1,8 +1,6 @@
-<h1 align="center"> collections </h1>
+# shiny-collections
 
-[![Project Status](http://www.repostatus.org/badges/latest/wip.svg)](http://www.repostatus.org/#wip)
-
-A collection of some plots served on a shiny instance.
+A collection of some plots to check out shiny.
 
 ## Introduction
 
